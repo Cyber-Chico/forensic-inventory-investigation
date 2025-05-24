@@ -29,17 +29,19 @@ Este projeto simula um cenário real de atuação forense, com base no desafio p
 
 ```
 projeto/
-├── imagens_forenses/
-│   ├── Chall_Pos_Tech_Ori.dd
-│   ├── Chall_Pos_Tech_Img1.dd
-│   └── Chall_Pos_Tech_Img2.dd
-├── relatorios/
-│   ├── relatorio_completo.pdf
-│   └── prints_etapas.png
-├── tabelas/
-│   └── tempos_MAC.csv
-└── bonus/
-    └── planilha_bonus_desencriptada.xlsx
+├── Relatórios/
+│ ├── Q1_Cadeia.md
+│ ├── Q2_Integridade.md
+│ ├── Q3_Esterilizacao.md
+│ ├── Q4_MAC.md
+│ ├── Q5_Extensoes.md
+│ ├── Q6_SSDs.md
+│ └── QBonus.md
+│
+├── Arquivos/
+│ └── Challenge_Pos_Tech.tar.gz # Contém todas as imagens forenses .dd
+│
+├── README.md # Descrição geral do projeto
 ```
 
 ## 📝 Questões Respondidas
